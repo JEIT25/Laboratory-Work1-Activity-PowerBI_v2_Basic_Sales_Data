@@ -14,7 +14,6 @@
 ## Part 1 & 2: Loading Data and Interface
 
 ### Data View Verification
-*Screenshot of the Data View showing all columns correctly formatted.*
 
 **1. Default Data Types (Before Correction)**
 *Screenshot showing the data types as initially loaded by Power BI.*
@@ -32,9 +31,9 @@
 
 **Data Type Checks:**
 * **Product/Sales/Category/Region/Date:** All columns are visible.
-* **Date:** Formatted as DATE dataype by default.
-* **Sales:** Corrected to DECIMAL NUMBER datatype (was formatted as WHOLE NUMBER datatype by default).
-* **Product/Category/Region:** Formatted as TEXT datatype as default.
+* **Date:** Formatted as **Date** datatype by default.
+* **Sales:** Corrected to **Decimal Number** datatype (was formatted as Whole Number by default).
+* **Product/Category/Region:** Formatted as **Text** datatype by default.
 
 ---
 
@@ -43,18 +42,18 @@
 ### Step 1: Quick Visualization
 *Screenshot of the first visual created by dragging "Sales" to the canvas.*
 
-![Quick Visualization](screenshots/part3_step1_quickvis.png)
+![Quick Visualization](screenshots/Part%203%20Creating%20Auto-Generated%20Visuals/part3_step1_quickvis.png)
 
 **Questions:**
 * **What type of chart was created?**
-    * *Dummy Answer: Power BI automatically created a Clustered Column Chart (or Bar Chart).*
+    * *Answer: Power BI automatically created a Clustered Column Chart.*
 * **What does it show?**
-    * *Dummy Answer: It shows the total sum of sales across the entire dataset represented as a single bar.*
+    * *Answer: It shows the total sum of sales across the entire dataset represented as a single bar.*
 
 ### Step 2: Sales by Region Chart
 *Screenshot of the Clustered Column Chart showing Sales by Region.*
 
-![Sales by Region Chart](screenshots/part3_step2_region.png)
+![Sales by Region Chart](screenshots/Part%203%20Creating%20Auto-Generated%20Visuals/part3_step2_region.png)
 
 **Questions:**
 * **Which region has highest sales?**
@@ -63,7 +62,7 @@
 ### Step 3: Sales by Category
 *Screenshot of the Pie Chart showing Sales by Category.*
 
-![Sales by Category Pie Chart](screenshots/Part%3%Creating%Auto-Generated%Visuals/part3_step3_category.png)
+![Sales by Category Pie Chart](screenshots/Part%203%20Creating%20Auto-Generated%20Visuals/part3_step3_category.png)
 
 **Questions:**
 * **Which category dominates?**
@@ -74,13 +73,13 @@
 ### Step 4: Sales Over Time
 *Screenshot of the Line Chart showing Sales over Date.*
 
-![Sales Over Time Line Chart](screenshots/Part%3%Creating%Auto-Generated%Visuals/part3_step4_line.png)
+![Sales Over Time Line Chart](screenshots/Part%203%20Creating%20Auto-Generated%20Visuals/part3_step4_line.png)
 
 **Questions:**
 * **Is there growth?**
-    * *Answer: No, There is a clear negative growth trend. Sales decrease from approximately 0.20M in 2024 to around 0.02M in 2025, indicating a substantial year-over-year decline*
+    * *Answer: No, there is a clear negative growth trend. Sales decrease from approximately 0.20M in 2024 to around 0.02M in 2025, indicating a substantial year-over-year decline.*
 * **Any noticeable trend?**
-    * *Sales seem to decline significantly at the end of every quarter.*
+    * *Answer: Sales seem to decline significantly at the end of every quarter.*
 
 ---
 
@@ -122,7 +121,7 @@
 * *Answer: The West Region.*
 
 **7. Which category has the lowest performance?**
-* *Answer: Office supplies has the lowest performance.*
+* *Answer: Office Supplies has the lowest performance.*
 
 **8. Are sales increasing, decreasing, or stable?**
 * *Answer: Sales are generally decreasing over the observed period.*
@@ -140,7 +139,7 @@
 ### Task 1: Card Visualization
 *Screenshot of the Card visual showing Total Sales.*
 
-![Card Visualization](screenshots/Enhancement%Section:%Advanced%Exploration/task1_card.png)
+![Card Visualization](screenshots/Enhancement%20Section%20Advanced%20Exploration/task1_card.png)
 
 **Question:**
 * **What is the total sales amount?**
@@ -149,7 +148,7 @@
 ### Task 2: Slicer
 *Screenshot showing the dashboard filtered by a specific Region using the Slicer.*
 
-![Slicer Interaction](screenshots/Enhancement%Section:%Advanced%Exploration/task2_slicer.png)
+![Slicer Interaction](screenshots/Enhancement%20Section%20Advanced%20Exploration/task2_slicer.png)
 
 **Questions:**
 * **What happens to other visuals when you click a region?**
@@ -160,7 +159,7 @@
 ### Task 3: Sort Sales
 *Screenshot of the Region Chart sorted by Sales Descending.*
 
-![Sorted Chart](screenshots/Enhancement%Section:%Advanced%Exploration/task3_sort.png)
+![Sorted Chart](screenshots/Enhancement%20Section%20Advanced%20Exploration/task3_sort.png)
 
 **Questions:**
 * **Does sorting improve readability?**
@@ -170,11 +169,10 @@
 
 ### Task 4: Identify Outliers
 **Questions:**
-* **Which region is significantly higher or lower?**  
+* **Which region is significantly higher or lower?**
     * **Answer:** The **North** region is significantly lower compared to the other regions (West, East, and South). While West (~59,041), East (~58,411), and South (~56,793) have relatively similar sales figures, North (~45,984) falls noticeably below this range, making it the clear lower outlier.
-* **What might explain that difference?**  
+* **What might explain that difference?**
     * **Answer:** The lower sales in the North region may be due to factors such as a smaller customer base, lower market penetration, reduced marketing efforts, stronger competition, or logistical and distribution challenges within that region.
-
 
 ---
 
