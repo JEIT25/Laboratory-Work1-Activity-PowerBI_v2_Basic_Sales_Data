@@ -58,7 +58,7 @@
 
 **Questions:**
 * **Which region has highest sales?**
-    * *Dummy Answer: The "North" region has the highest sales bar compared to the others.*
+    * *Answer: The "WEST" region has the highest sales bar compared to the other regions.*
 
 ### Step 3: Sales by Category
 *Screenshot of the Pie Chart showing Sales by Category.*
@@ -67,9 +67,9 @@
 
 **Questions:**
 * **Which category dominates?**
-    * *Dummy Answer: The "Electronics" category dominates the chart with the largest slice.*
+    * *Answer: The "Electronics" category dominates the chart with the largest slice.*
 * **Is the distribution balanced?**
-    * *Dummy Answer: No, the distribution is not balanced; "Electronics" takes up 60% of the chart while "Clothing" only takes up 10%.*
+    * *Answer: No, the distribution is not balanced; "ELECTRONICS" takes up 40.82% of the chart while "OFFICE SUPPLIES" only takes up 19.99%.*
 
 ### Step 4: Sales Over Time
 *Screenshot of the Line Chart showing Sales over Date.*
@@ -78,22 +78,22 @@
 
 **Questions:**
 * **Is there growth?**
-    * *Dummy Answer: Yes, there is a visible upward trend from January to December.*
+    * *Answer: No, There is a clear negative growth trend. Sales decrease from approximately 0.20M in 2024 to around 0.02M in 2025, indicating a substantial year-over-year decline*
 * **Any noticeable trend?**
-    * *Dummy Answer: Sales seem to spike significantly at the end of every quarter.*
+    * *Sales seem to decline significantly at the end of every quarter.*
 
 ---
 
 ## Part 4: Basic Data Insight Interpretation
 
 * **Which region contributes most revenue?**
-    * *Dummy Answer: Based on the column chart, the North Region contributes the most revenue.*
+    * *Answer: Based on the column chart, the WEST Region contributes the most revenue.*
 * **Which product category performs best?**
-    * *Dummy Answer: Electronics is the best performing category.*
+    * *Answer: ELECTRONICS is the best performing category.*
 * **Are sales consistent across dates?**
-    * *Dummy Answer: No, sales fluctuate. There are peaks in the middle of the month and dips at the start.*
+    * *Answer: No, sales fluctuate. There are peaks in the middle of the month and dips at the start.*
 * **What business recommendation can you suggest?**
-    * *Dummy Answer: Since the North Region is performing well, we should investigate their marketing strategy and apply it to the lower-performing South Region.*
+    * *Answer: Since the WEST Region is performing well, we should investigate their marketing strategy and apply it to the lower-performing NORTH Region.*
 
 ---
 
@@ -119,19 +119,19 @@
 ### Part B - Analytical Questions
 
 **6. Which region has the highest total sales?**
-* *Dummy Answer: The West Region.*
+* *Answer: The West Region.*
 
 **7. Which category has the lowest performance?**
-* *Dummy Answer: Furniture has the lowest performance.*
+* *Answer: Office supplies has the lowest performance.*
 
 **8. Are sales increasing, decreasing, or stable?**
-* *Dummy Answer: Sales are generally increasing over the observed period.*
+* *Answer: Sales are generally decreasing over the observed period.*
 
 **9. If you were a manager, which region would you prioritize?**
-* *Dummy Answer: I would prioritize the East Region because it has the lowest sales and needs intervention to meet targets.*
+* *Answer: I would prioritize the North Region because it has the lowest sales and needs intervention to meet targets.*
 
 **10. Provide one actionable recommendation based on the data.**
-* *Dummy Answer: Increase inventory for "Electronics" before Q4, as historical data shows a massive spike in demand during that period.*
+* *Answer: Increase inventory for "Electronics", as historical data shows a massive demand for this category.*
 
 ---
 
@@ -140,47 +140,48 @@
 ### Task 1: Card Visualization
 *Screenshot of the Card visual showing Total Sales.*
 
-![Card Visualization](screenshots/task1_card.png)
+![Card Visualization](screenshots/Enhancement%Section:%Advanced%Exploration/task1_card.png)
 
 **Question:**
 * **What is the total sales amount?**
-    * *Dummy Answer: 1,250,000.00*
+    * *Answer: 220,229*
 
 ### Task 2: Slicer
 *Screenshot showing the dashboard filtered by a specific Region using the Slicer.*
 
-![Slicer Interaction](screenshots/task2_slicer.png)
+![Slicer Interaction](screenshots/Enhancement%Section:%Advanced%Exploration/task2_slicer.png)
 
 **Questions:**
 * **What happens to other visuals when you click a region?**
-    * *Dummy Answer: All other charts (Pie, Line, and Bar) change to show data ONLY for the selected region.*
+    * *Answer: All other charts (Pie, Line, and Bar) change to show data ONLY for the selected region.*
 * **Why is filtering important in BI?**
-    * *Dummy Answer: It allows users to focus on specific areas of interest (like one specific region) to find granular insights without being overwhelmed by the whole dataset.*
+    * *Answer: It allows users to focus on specific areas of interest (like one specific region) to find granular insights without being overwhelmed by the whole dataset.*
 
 ### Task 3: Sort Sales
 *Screenshot of the Region Chart sorted by Sales Descending.*
 
-![Sorted Chart](screenshots/task3_sort.png)
+![Sorted Chart](screenshots/Enhancement%Section:%Advanced%Exploration/task3_sort.png)
 
 **Questions:**
 * **Does sorting improve readability?**
-    * *Dummy Answer: Yes.*
+    * *Answer: Yes.*
 * **Why?**
-    * *Dummy Answer: It makes it instantly clear which region is performing best and which is worst, without having to visually compare unorganized bar heights.*
+    * *Answer: It makes it instantly clear which region is performing best and which is worst, without having to visually compare unorganized bar heights.*
 
 ### Task 4: Identify Outliers
 **Questions:**
-* **Which region is significantly higher or lower?**
-    * *Dummy Answer: The "International" region is significantly lower than domestic regions.*
-* **What might explain that difference?**
-    * *Dummy Answer: Higher shipping costs or lack of brand awareness in international markets might explain the low sales.*
+* **Which region is significantly higher or lower?**  
+    * **Answer:** The **North** region is significantly lower compared to the other regions (West, East, and South). While West (~59,041), East (~58,411), and South (~56,793) have relatively similar sales figures, North (~45,984) falls noticeably below this range, making it the clear lower outlier.
+* **What might explain that difference?**  
+    * **Answer:** The lower sales in the North region may be due to factors such as a smaller customer base, lower market penetration, reduced marketing efforts, stronger competition, or logistical and distribution challenges within that region.
+
 
 ---
 
 ## One-Page Insight Summary
 
-1.  **Sales Concentration:** The majority of our revenue (approx. 60%) comes from the Electronics category, indicating a high dependency on this single vertical.
-2.  **Regional Disparity:** The North region outperforms the South region by 200%, suggesting a need for regional specific marketing in the South.
-3.  **Growth Trend:** Overall sales are healthy with a 15% month-over-month growth rate observed in the Line Chart.
-4.  **Low Performers:** The "Accessories" category has negligible sales impact and should be reviewed for potential discontinuation or bundling strategies.
-5.  **Seasonal Spikes:** There is a clear sales spike at the end of the month, likely due to salary pay-cycles, which should be targeted with specific end-of-month promotions.
+1. **Top Categories:** Electronics is the best-selling category with roughly 41% of sales, but Furniture is very close behind at 39%.
+2. **Lowest Performing Category:** Office Supplies has the lowest performance, contributing only about 20% to the total revenue.
+3. **Best Region:** The West region contributes the most to sales (approx. 59k), followed closely by the East and South regions.
+4. **Regional Lag:** The North region has the lowest sales (46k) compared to the other three regions which are all above 56k.
+5. **Yearly Trend:** The line chart shows a sharp drop in sales volume from 2024 (202k) to 2025 (17k), suggesting incomplete data for the new year or a significant drop in activity.
