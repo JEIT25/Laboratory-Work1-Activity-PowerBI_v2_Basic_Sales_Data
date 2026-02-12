@@ -33,7 +33,7 @@
 **Data Type Checks:**
 * **Product/Sales/Category/Region/Date:** All columns are visible.
 * **Date:** Formatted as DATE dataype by default.
-* **Sales:** Corrected to Decimal Number (was formatted as Whole Number by default).
+* **Sales:** Corrected to DECIMAL NUMBER datatype (was formatted as WHOLE NUMBER datatype by default).
 * **Product/Category/Region:** Formatted as TEXT datatype as default.
 
 ---
