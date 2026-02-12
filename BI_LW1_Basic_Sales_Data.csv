@@ -1,0 +1,401 @@
+Date,Product,Category,Region,Sales
+2024-01-01,Product A,Electronics,East,175.0
+2024-01-02,Product B,Furniture,South,378.0
+2024-01-03,Product A,Electronics,North,842.0
+2024-01-04,Product E,Furniture,North,582.0
+2024-01-05,Product A,Electronics,South,245.0
+2024-01-06,Product B,Furniture,North,667.0
+2024-01-07,Product E,Furniture,West,353.0
+2024-01-08,Product B,Furniture,East,609.0
+2024-01-09,Product A,Electronics,West,313.0
+2024-01-10,Product C,Office Supplies,South,434.0
+2024-01-11,Product B,Furniture,North,494.0
+2024-01-12,Product A,Electronics,North,539.0
+2024-01-13,Product C,Office Supplies,East,502.0
+2024-01-14,Product A,Electronics,West,897.0
+2024-01-15,Product E,Furniture,West,277.0
+2024-01-16,Product A,Electronics,East,715.0
+2024-01-17,Product E,Furniture,South,520.0
+2024-01-18,Product A,Electronics,South,196.0
+2024-01-19,Product C,Office Supplies,South,231.0
+2024-01-20,Product A,Electronics,East,539.0
+2024-01-21,Product D,Electronics,East,800.0
+2024-01-22,Product B,Furniture,East,529.0
+2024-01-23,Product B,Furniture,East,836.0
+2024-01-24,Product A,Electronics,South,773.0
+2024-01-25,Product E,Furniture,South,896.0
+2024-01-26,Product B,Furniture,West,623.0
+2024-01-27,Product C,Office Supplies,South,805.0
+2024-01-28,Product C,Office Supplies,South,207.0
+2024-01-29,Product A,Electronics,West,473.0
+2024-01-30,Product C,Office Supplies,South,217.0
+2024-01-31,Product E,Furniture,East,885.0
+2024-02-01,Product B,Furniture,West,821.0
+2024-02-02,Product D,Electronics,West,808.0
+2024-02-03,Product B,Furniture,South,421.0
+2024-02-04,Product B,Furniture,East,724.0
+2024-02-05,Product E,Furniture,West,588.0
+2024-02-06,Product C,Office Supplies,South,374.0
+2024-02-07,Product E,Furniture,North,655.0
+2024-02-08,Product A,Electronics,South,262.0
+2024-02-09,Product B,Furniture,West,846.0
+2024-02-10,Product E,Furniture,West,215.0
+2024-02-11,Product D,Electronics,West,760.0
+2024-02-12,Product E,Furniture,North,407.0
+2024-02-13,Product A,Electronics,East,848.0
+2024-02-14,Product C,Office Supplies,East,264.0
+2024-02-15,Product D,Electronics,West,311.0
+2024-02-16,Product A,Electronics,East,889.0
+2024-02-17,Product E,Furniture,North,332.0
+2024-02-18,Product C,Office Supplies,South,804.0
+2024-02-19,Product B,Furniture,South,532.0
+2024-02-20,Product E,Furniture,North,693.0
+2024-02-21,Product E,Furniture,West,481.0
+2024-02-22,Product A,Electronics,East,264.0
+2024-02-23,Product C,Office Supplies,North,395.0
+2024-02-24,Product B,Furniture,North,730.0
+2024-02-25,Product A,Electronics,West,899.0
+2024-02-26,Product A,Electronics,South,695.0
+2024-02-27,Product B,Furniture,West,825.0
+2024-02-28,Product E,Furniture,East,319.0
+2024-02-29,Product E,Furniture,West,771.0
+2024-03-01,Product B,Furniture,South,702.0
+2024-03-02,Product C,Office Supplies,East,558.0
+2024-03-03,Product D,Electronics,West,679.0
+2024-03-04,Product A,Electronics,South,403.0
+2024-03-05,Product A,Electronics,North,496.0
+2024-03-06,Product E,Furniture,South,717.0
+2024-03-07,Product E,Furniture,North,375.0
+2024-03-08,Product A,Electronics,North,874.0
+2024-03-09,Product B,Furniture,North,219.0
+2024-03-10,Product C,Office Supplies,South,222.0
+2024-03-11,Product C,Office Supplies,West,835.0
+2024-03-12,Product B,Furniture,South,702.0
+2024-03-13,Product E,Furniture,West,740.0
+2024-03-14,Product B,Furniture,West,634.0
+2024-03-15,Product B,Furniture,North,246.0
+2024-03-16,Product D,Electronics,West,512.0
+2024-03-17,Product D,Electronics,North,628.0
+2024-03-18,Product A,Electronics,West,212.0
+2024-03-19,Product C,Office Supplies,South,261.0
+2024-03-20,Product B,Furniture,West,344.0
+2024-03-21,Product B,Furniture,South,582.0
+2024-03-22,Product C,Office Supplies,South,623.0
+2024-03-23,Product A,Electronics,North,603.0
+2024-03-24,Product A,Electronics,North,817.0
+2024-03-25,Product A,Electronics,South,392.0
+2024-03-26,Product D,Electronics,West,647.0
+2024-03-27,Product B,Furniture,North,560.0
+2024-03-28,Product B,Furniture,North,538.0
+2024-03-29,Product D,Electronics,West,421.0
+2024-03-30,Product C,Office Supplies,West,583.0
+2024-03-31,Product B,Furniture,East,344.0
+2024-04-01,Product B,Furniture,North,209.0
+2024-04-02,Product C,Office Supplies,North,208.0
+2024-04-03,Product E,Furniture,South,638.0
+2024-04-04,Product A,Electronics,North,670.0
+2024-04-05,Product B,Furniture,North,220.0
+2024-04-06,Product B,Furniture,North,563.0
+2024-04-07,Product E,Furniture,North,402.0
+2024-04-08,Product E,Furniture,West,233.0
+2024-04-09,Product E,Furniture,East,728.0
+2024-04-10,Product C,Office Supplies,East,359.0
+2024-04-11,Product B,Furniture,West,421.0
+2024-04-12,Product B,Furniture,East,837.0
+2024-04-13,Product D,Electronics,North,473.0
+2024-04-14,Product A,Electronics,North,619.0
+2024-04-15,Product A,Electronics,South,700.0
+2024-04-16,Product E,Furniture,South,421.0
+2024-04-17,Product C,Office Supplies,South,220.0
+2024-04-18,Product C,Office Supplies,South,441.0
+2024-04-19,Product D,Electronics,East,706.0
+2024-04-20,Product E,Furniture,North,819.0
+2024-04-21,Product E,Furniture,North,456.0
+2024-04-22,Product B,Furniture,North,420.0
+2024-04-23,Product A,Electronics,South,716.0
+2024-04-24,Product C,Office Supplies,South,438.0
+2024-04-25,Product C,Office Supplies,East,358.0
+2024-04-26,Product E,Furniture,East,650.0
+2024-04-27,Product A,Electronics,West,244.0
+2024-04-28,Product C,Office Supplies,North,195.0
+2024-04-29,Product C,Office Supplies,East,283.0
+2024-04-30,Product B,Furniture,West,602.0
+2024-05-01,Product E,Furniture,North,159.0
+2024-05-02,Product A,Electronics,South,857.0
+2024-05-03,Product E,Furniture,East,186.0
+2024-05-04,Product E,Furniture,South,715.0
+2024-05-05,Product D,Electronics,North,280.0
+2024-05-06,Product C,Office Supplies,North,523.0
+2024-05-07,Product C,Office Supplies,South,365.0
+2024-05-08,Product A,Electronics,West,512.0
+2024-05-09,Product E,Furniture,South,308.0
+2024-05-10,Product B,Furniture,West,331.0
+2024-05-11,Product A,Electronics,East,333.0
+2024-05-12,Product D,Electronics,South,835.0
+2024-05-13,Product C,Office Supplies,North,313.0
+2024-05-14,Product D,Electronics,West,189.0
+2024-05-15,Product B,Furniture,West,354.0
+2024-05-16,Product C,Office Supplies,South,462.0
+2024-05-17,Product B,Furniture,South,174.0
+2024-05-18,Product D,Electronics,East,486.0
+2024-05-19,Product A,Electronics,East,435.0
+2024-05-20,Product E,Furniture,East,559.0
+2024-05-21,Product A,Electronics,East,268.0
+2024-05-22,Product B,Furniture,East,744.0
+2024-05-23,Product A,Electronics,West,261.0
+2024-05-24,Product C,Office Supplies,East,896.0
+2024-05-25,Product D,Electronics,North,770.0
+2024-05-26,Product D,Electronics,South,740.0
+2024-05-27,Product C,Office Supplies,West,195.0
+2024-05-28,Product A,Electronics,South,682.0
+2024-05-29,Product C,Office Supplies,North,591.0
+2024-05-30,Product C,Office Supplies,East,788.0
+2024-05-31,Product A,Electronics,East,887.0
+2024-06-01,Product E,Furniture,West,466.0
+2024-06-02,Product C,Office Supplies,East,562.0
+2024-06-03,Product E,Furniture,South,280.0
+2024-06-04,Product D,Electronics,West,830.0
+2024-06-05,Product B,Furniture,East,780.0
+2024-06-06,Product D,Electronics,North,711.0
+2024-06-07,Product C,Office Supplies,South,443.0
+2024-06-08,Product D,Electronics,East,743.0
+2024-06-09,Product D,Electronics,West,602.0
+2024-06-10,Product B,Furniture,West,673.0
+2024-06-11,Product B,Furniture,North,824.0
+2024-06-12,Product C,Office Supplies,East,677.0
+2024-06-13,Product A,Electronics,East,390.0
+2024-06-14,Product B,Furniture,South,353.0
+2024-06-15,Product A,Electronics,South,197.0
+2024-06-16,Product D,Electronics,North,775.0
+2024-06-17,Product D,Electronics,South,574.0
+2024-06-18,Product D,Electronics,West,656.0
+2024-06-19,Product B,Furniture,North,301.0
+2024-06-20,Product A,Electronics,South,585.0
+2024-06-21,Product B,Furniture,West,862.0
+2024-06-22,Product A,Electronics,South,720.0
+2024-06-23,Product A,Electronics,South,617.0
+2024-06-24,Product D,Electronics,East,833.0
+2024-06-25,Product D,Electronics,West,777.0
+2024-06-26,Product E,Furniture,South,606.0
+2024-06-27,Product D,Electronics,East,610.0
+2024-06-28,Product B,Furniture,East,802.0
+2024-06-29,Product E,Furniture,South,646.0
+2024-06-30,Product C,Office Supplies,North,600.0
+2024-07-01,Product C,Office Supplies,East,390.0
+2024-07-02,Product C,Office Supplies,North,477.0
+2024-07-03,Product B,Furniture,South,304.0
+2024-07-04,Product D,Electronics,South,860.0
+2024-07-05,Product B,Furniture,West,215.0
+2024-07-06,Product D,Electronics,West,488.0
+2024-07-07,Product D,Electronics,South,213.0
+2024-07-08,Product D,Electronics,North,548.0
+2024-07-09,Product E,Furniture,West,539.0
+2024-07-10,Product A,Electronics,East,510.0
+2024-07-11,Product D,Electronics,South,579.0
+2024-07-12,Product D,Electronics,East,374.0
+2024-07-13,Product D,Electronics,North,647.0
+2024-07-14,Product D,Electronics,West,494.0
+2024-07-15,Product B,Furniture,South,628.0
+2024-07-16,Product E,Furniture,North,696.0
+2024-07-17,Product D,Electronics,North,756.0
+2024-07-18,Product A,Electronics,West,808.0
+2024-07-19,Product B,Furniture,South,622.0
+2024-07-20,Product A,Electronics,West,416.0
+2024-07-21,Product C,Office Supplies,West,366.0
+2024-07-22,Product C,Office Supplies,West,495.0
+2024-07-23,Product C,Office Supplies,East,581.0
+2024-07-24,Product A,Electronics,North,631.0
+2024-07-25,Product E,Furniture,East,203.0
+2024-07-26,Product B,Furniture,North,815.0
+2024-07-27,Product A,Electronics,South,181.0
+2024-07-28,Product B,Furniture,South,170.0
+2024-07-29,Product B,Furniture,West,279.0
+2024-07-30,Product A,Electronics,South,727.0
+2024-07-31,Product D,Electronics,East,866.0
+2024-08-01,Product C,Office Supplies,North,321.0
+2024-08-02,Product B,Furniture,North,468.0
+2024-08-03,Product E,Furniture,East,176.0
+2024-08-04,Product E,Furniture,West,843.0
+2024-08-05,Product D,Electronics,South,882.0
+2024-08-06,Product A,Electronics,South,756.0
+2024-08-07,Product A,Electronics,East,863.0
+2024-08-08,Product E,Furniture,North,273.0
+2024-08-09,Product C,Office Supplies,West,695.0
+2024-08-10,Product C,Office Supplies,East,220.0
+2024-08-11,Product A,Electronics,West,580.0
+2024-08-12,Product A,Electronics,East,593.0
+2024-08-13,Product D,Electronics,South,874.0
+2024-08-14,Product D,Electronics,East,330.0
+2024-08-15,Product E,Furniture,West,701.0
+2024-08-16,Product D,Electronics,East,596.0
+2024-08-17,Product C,Office Supplies,North,401.0
+2024-08-18,Product C,Office Supplies,South,611.0
+2024-08-19,Product D,Electronics,West,733.0
+2024-08-20,Product C,Office Supplies,West,179.0
+2024-08-21,Product C,Office Supplies,West,336.0
+2024-08-22,Product B,Furniture,East,513.0
+2024-08-23,Product C,Office Supplies,East,436.0
+2024-08-24,Product E,Furniture,South,160.0
+2024-08-25,Product A,Electronics,West,397.0
+2024-08-26,Product D,Electronics,South,718.0
+2024-08-27,Product D,Electronics,West,811.0
+2024-08-28,Product D,Electronics,North,167.0
+2024-08-29,Product C,Office Supplies,West,376.0
+2024-08-30,Product B,Furniture,East,463.0
+2024-08-31,Product D,Electronics,East,716.0
+2024-09-01,Product D,Electronics,East,713.0
+2024-09-02,Product C,Office Supplies,West,869.0
+2024-09-03,Product C,Office Supplies,East,463.0
+2024-09-04,Product B,Furniture,South,273.0
+2024-09-05,Product C,Office Supplies,South,272.0
+2024-09-06,Product B,Furniture,West,371.0
+2024-09-07,Product C,Office Supplies,East,891.0
+2024-09-08,Product A,Electronics,East,348.0
+2024-09-09,Product B,Furniture,South,519.0
+2024-09-10,Product C,Office Supplies,South,164.0
+2024-09-11,Product C,Office Supplies,North,196.0
+2024-09-12,Product E,Furniture,South,449.0
+2024-09-13,Product D,Electronics,North,255.0
+2024-09-14,Product E,Furniture,West,441.0
+2024-09-15,Product D,Electronics,East,601.0
+2024-09-16,Product B,Furniture,East,202.0
+2024-09-17,Product D,Electronics,North,266.0
+2024-09-18,Product D,Electronics,North,653.0
+2024-09-19,Product E,Furniture,North,794.0
+2024-09-20,Product B,Furniture,East,302.0
+2024-09-21,Product A,Electronics,North,404.0
+2024-09-22,Product E,Furniture,South,576.0
+2024-09-23,Product E,Furniture,West,539.0
+2024-09-24,Product D,Electronics,West,454.0
+2024-09-25,Product C,Office Supplies,North,732.0
+2024-09-26,Product E,Furniture,South,251.0
+2024-09-27,Product B,Furniture,North,420.0
+2024-09-28,Product B,Furniture,South,395.0
+2024-09-29,Product E,Furniture,South,226.0
+2024-09-30,Product A,Electronics,West,568.0
+2024-10-01,Product E,Furniture,East,757.2
+2024-10-02,Product A,Electronics,East,464.4
+2024-10-03,Product C,Office Supplies,West,1042.8
+2024-10-04,Product A,Electronics,South,1023.6
+2024-10-05,Product C,Office Supplies,South,948.0
+2024-10-06,Product D,Electronics,South,320.4
+2024-10-07,Product B,Furniture,South,506.4
+2024-10-08,Product A,Electronics,South,253.2
+2024-10-09,Product C,Office Supplies,East,910.8
+2024-10-10,Product D,Electronics,West,332.4
+2024-10-11,Product C,Office Supplies,West,1039.2
+2024-10-12,Product C,Office Supplies,West,794.4
+2024-10-13,Product D,Electronics,North,278.4
+2024-10-14,Product D,Electronics,East,576.0
+2024-10-15,Product A,Electronics,South,291.6
+2024-10-16,Product E,Furniture,North,901.2
+2024-10-17,Product C,Office Supplies,North,888.0
+2024-10-18,Product B,Furniture,West,757.2
+2024-10-19,Product C,Office Supplies,West,402.0
+2024-10-20,Product D,Electronics,West,291.6
+2024-10-21,Product C,Office Supplies,East,681.6
+2024-10-22,Product C,Office Supplies,North,1003.2
+2024-10-23,Product B,Furniture,West,584.4
+2024-10-24,Product D,Electronics,West,534.0
+2024-10-25,Product E,Furniture,West,224.4
+2024-10-26,Product A,Electronics,East,566.4
+2024-10-27,Product C,Office Supplies,West,321.6
+2024-10-28,Product E,Furniture,West,181.2
+2024-10-29,Product D,Electronics,South,246.0
+2024-10-30,Product E,Furniture,West,624.0
+2024-10-31,Product D,Electronics,South,242.4
+2024-11-01,Product C,Office Supplies,South,854.4
+2024-11-02,Product C,Office Supplies,West,717.6
+2024-11-03,Product A,Electronics,South,214.8
+2024-11-04,Product B,Furniture,North,561.6
+2024-11-05,Product E,Furniture,North,680.4
+2024-11-06,Product B,Furniture,West,319.2
+2024-11-07,Product A,Electronics,South,975.6
+2024-11-08,Product D,Electronics,East,1059.6
+2024-11-09,Product E,Furniture,East,1046.4
+2024-11-10,Product D,Electronics,West,772.8
+2024-11-11,Product B,Furniture,South,740.4
+2024-11-12,Product D,Electronics,South,414.0
+2024-11-13,Product A,Electronics,West,518.4
+2024-11-14,Product C,Office Supplies,East,802.8
+2024-11-15,Product A,Electronics,East,526.8
+2024-11-16,Product E,Furniture,West,891.6
+2024-11-17,Product B,Furniture,West,728.4
+2024-11-18,Product C,Office Supplies,West,588.0
+2024-11-19,Product D,Electronics,South,574.8
+2024-11-20,Product B,Furniture,West,882.0
+2024-11-21,Product B,Furniture,North,684.0
+2024-11-22,Product C,Office Supplies,West,760.8
+2024-11-23,Product D,Electronics,South,994.8
+2024-11-24,Product D,Electronics,South,224.4
+2024-11-25,Product E,Furniture,East,904.8
+2024-11-26,Product A,Electronics,North,720.0
+2024-11-27,Product E,Furniture,North,740.4
+2024-11-28,Product B,Furniture,South,682.8
+2024-11-29,Product A,Electronics,East,756.0
+2024-11-30,Product C,Office Supplies,West,945.6
+2024-12-01,Product A,Electronics,West,583.2
+2024-12-02,Product C,Office Supplies,West,949.2
+2024-12-03,Product E,Furniture,North,223.2
+2024-12-04,Product B,Furniture,East,955.2
+2024-12-05,Product B,Furniture,West,290.4
+2024-12-06,Product A,Electronics,North,957.6
+2024-12-07,Product D,Electronics,East,384.0
+2024-12-08,Product A,Electronics,East,236.4
+2024-12-09,Product A,Electronics,East,540.0
+2024-12-10,Product C,Office Supplies,South,709.2
+2024-12-11,Product B,Furniture,West,831.6
+2024-12-12,Product E,Furniture,South,1017.6
+2024-12-13,Product B,Furniture,North,394.8
+2024-12-14,Product E,Furniture,South,649.2
+2024-12-15,Product D,Electronics,South,896.4
+2024-12-16,Product B,Furniture,East,746.4
+2024-12-17,Product D,Electronics,North,493.2
+2024-12-18,Product D,Electronics,South,532.8
+2024-12-19,Product A,Electronics,East,722.4
+2024-12-20,Product E,Furniture,West,547.2
+2024-12-21,Product C,Office Supplies,East,740.4
+2024-12-22,Product B,Furniture,West,651.6
+2024-12-23,Product A,Electronics,West,470.4
+2024-12-24,Product E,Furniture,East,620.4
+2024-12-25,Product C,Office Supplies,West,206.4
+2024-12-26,Product C,Office Supplies,North,189.6
+2024-12-27,Product E,Furniture,East,789.6
+2024-12-28,Product B,Furniture,East,925.2
+2024-12-29,Product B,Furniture,South,961.2
+2024-12-30,Product E,Furniture,South,487.2
+2024-12-31,Product A,Electronics,North,950.4
+2025-01-01,Product C,Office Supplies,North,601.0
+2025-01-02,Product E,Furniture,South,523.0
+2025-01-03,Product A,Electronics,East,452.0
+2025-01-04,Product D,Electronics,South,329.0
+2025-01-05,Product B,Furniture,East,702.0
+2025-01-06,Product E,Furniture,East,663.0
+2025-01-07,Product B,Furniture,West,413.0
+2025-01-08,Product C,Office Supplies,North,496.0
+2025-01-09,Product D,Electronics,South,227.0
+2025-01-10,Product B,Furniture,West,842.0
+2025-01-11,Product E,Furniture,North,524.0
+2025-01-12,Product D,Electronics,East,164.0
+2025-01-13,Product E,Furniture,West,276.0
+2025-01-14,Product C,Office Supplies,East,838.0
+2025-01-15,Product E,Furniture,East,540.0
+2025-01-16,Product A,Electronics,South,841.0
+2025-01-17,Product D,Electronics,East,175.0
+2025-01-18,Product E,Furniture,North,376.0
+2025-01-19,Product D,Electronics,East,867.0
+2025-01-20,Product D,Electronics,South,269.0
+2025-01-21,Product A,Electronics,East,188.0
+2025-01-22,Product D,Electronics,North,268.0
+2025-01-23,Product B,Furniture,South,700.0
+2025-01-24,Product D,Electronics,East,614.0
+2025-01-25,Product E,Furniture,South,579.0
+2025-01-26,Product D,Electronics,North,820.0
+2025-01-27,Product D,Electronics,West,780.0
+2025-01-28,Product C,Office Supplies,East,183.0
+2025-01-29,Product B,Furniture,West,604.0
+2025-01-30,Product B,Furniture,North,521.0
+2025-01-31,Product C,Office Supplies,East,707.0
+2025-02-01,Product A,Electronics,East,557.0
+2025-02-02,Product B,Furniture,West,275.0
+2025-02-03,Product A,Electronics,South,828.0
