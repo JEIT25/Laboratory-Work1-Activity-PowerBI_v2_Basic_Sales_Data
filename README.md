@@ -63,7 +63,7 @@
 ### Step 3: Sales by Category
 *Screenshot of the Pie Chart showing Sales by Category.*
 
-![Sales by Category Pie Chart](screenshots/part3_step3_category.png)
+![Sales by Category Pie Chart](screenshots/Part%3%Creating%Auto-Generated%Visuals/part3_step3_category.png)
 
 **Questions:**
 * **Which category dominates?**
@@ -74,7 +74,7 @@
 ### Step 4: Sales Over Time
 *Screenshot of the Line Chart showing Sales over Date.*
 
-![Sales Over Time Line Chart](screenshots/part3_step4_line.png)
+![Sales Over Time Line Chart](screenshots/Part%3%Creating%Auto-Generated%Visuals/part3_step4_line.png)
 
 **Questions:**
 * **Is there growth?**
