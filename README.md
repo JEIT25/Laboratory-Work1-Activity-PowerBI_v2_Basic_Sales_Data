@@ -1,8 +1,6 @@
 # Laboratory Work 1 - Introduction to Business Intelligence & Power BI
 
-**Student Name:** [Your Name Here]
-**Student ID:** [Your ID Here]
-**Date:** [Date of Submission]
+**Student Name:** Jerold M. Amora
 
 ---
 
@@ -18,12 +16,25 @@
 ### Data View Verification
 *Screenshot of the Data View showing all columns correctly formatted.*
 
-![Data View and Column Validation](screenshots/part1_dataview.png)
+**1. Default Data Types (Before Correction)**
+*Screenshot showing the data types as initially loaded by Power BI.*
+
+![Default Data Types Before Correction](screenshots/Part%201%20%26%202%20Loading%20Data%20and%20Interface/DEFAULT%20DATATYPES/DEFAULT%20DATA%20TYPES%20BEFORE%20CORRECTION_page-0001.jpg)
+![Default Data Types Before Correction](screenshots/Part%201%20%26%202%20Loading%20Data%20and%20Interface/DEFAULT%20DATATYPES/DEFAULT%20DATA%20TYPES%20BEFORE%20CORRECTION_page-0002.jpg)
+![Default Data Types Before Correction](screenshots/Part%201%20%26%202%20Loading%20Data%20and%20Interface/DEFAULT%20DATATYPES/DEFAULT%20DATA%20TYPES%20BEFORE%20CORRECTION_page-0003.jpg)
+
+**2. Corrected Data Types**
+*Screenshot showing the data types after manual verification and adjustment.*
+
+![Corrected Data Types](screenshots/Part%201%20%26%202%20Loading%20Data%20and%20Interface/CORRECTIONED%20DATATYPES/DEFAULT%20DATA%20TYPES%20AFTER%20CORRECTION_pages-to-jpg-0001.jpg)
+![Corrected Data Types](screenshots/Part%201%20%26%202%20Loading%20Data%20and%20Interface/CORRECTIONED%20DATATYPES/DEFAULT%20DATA%20TYPES%20AFTER%20CORRECTION_pages-to-jpg-0002.jpg)
+![Corrected Data Types](screenshots/Part%201%20%26%202%20Loading%20Data%20and%20Interface/CORRECTIONED%20DATATYPES/DEFAULT%20DATA%20TYPES%20AFTER%20CORRECTION_pages-to-jpg-0003.jpg)
 
 **Data Type Checks:**
-* **Date:** Formatted as Date.
-* **Sales:** Formatted as Decimal Number.
-* **Product/Category/Region:** Formatted as Text.
+* **Product/Sales/Category/Region/Date:** All columns are visible.
+* **Date:** Formatted as DATE dataype by default.
+* **Sales:** Corrected to Decimal Number (was formatted as Whole Number by default).
+* **Product/Category/Region:** Formatted as TEXT datatype as default.
 
 ---
 
