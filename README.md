@@ -7,7 +7,7 @@
 ## Activity Overview
 **Objective:** To import CSV data into Power BI, identify dataset structures, create basic visualizations, and generate simple insights to understand how BI transforms raw data into meaningful information.
 
-**File Used:** `LW1_Basic_Sales_Data.csv`
+**File Used:** [LW1_Basic_Sales_Data.csv](LW1_Basic_Sales_Data.csv)
 
 ---
 
