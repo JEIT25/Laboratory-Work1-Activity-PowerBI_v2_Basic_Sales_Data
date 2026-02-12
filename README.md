@@ -7,7 +7,7 @@
 ---
 
 ## Activity Overview
-[cite_start]**Objective:** To import CSV data into Power BI, identify dataset structures, create basic visualizations, and generate simple insights to understand how BI transforms raw data into meaningful information[cite: 4, 9].
+**Objective:** To import CSV data into Power BI, identify dataset structures, create basic visualizations, and generate simple insights to understand how BI transforms raw data into meaningful information.
 
 **File Used:** `LW1_Basic_Sales_Data.csv`
 
@@ -21,9 +21,9 @@
 ![Data View and Column Validation](screenshots/part1_dataview.png)
 
 **Data Type Checks:**
-* [cite_start]**Date:** Formatted as Date[cite: 30].
-* [cite_start]**Sales:** Formatted as Decimal Number[cite: 31].
-* [cite_start]**Product/Category/Region:** Formatted as Text[cite: 39].
+* **Date:** Formatted as Date.
+* **Sales:** Formatted as Decimal Number.
+* **Product/Category/Region:** Formatted as Text.
 
 ---
 
@@ -91,16 +91,16 @@
 ### Part A - Technical Questions
 
 **1. What are the five columns in the dataset?**
-* [cite_start]*Answer: Date, Product, Category, Region, Sales[cite: 13].*
+* *Answer: Date, Product, Category, Region, Sales.*
 
 **2. What data type is assigned to the "Sales" column?**
-* [cite_start]*Answer: Decimal Number[cite: 31].*
+* *Answer: Decimal Number.*
 
 **3. Which Power BI view allows you to see raw data?**
-* [cite_start]*Answer: Data View[cite: 41].*
+* *Answer: Data View.*
 
 **4. What chart type is best for showing trends over time?**
-* [cite_start]*Answer: Line Chart[cite: 70].*
+* *Answer: Line Chart.*
 
 **5. What aggregation is automatically applied to Sales?**
 * *Answer: Sum (Summation).*
