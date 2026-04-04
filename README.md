@@ -2,7 +2,7 @@
 
 ---
 
-# Powerpoint Slide Link: https://docs.google.com/presentation/d/1tygFdKy7ulyw0pnKcrXUUS-omnXZ40ocucCFbRwTUIs/edit?usp=sharing
+## Powerpoint Slide Link: https://docs.google.com/presentation/d/1tygFdKy7ulyw0pnKcrXUUS-omnXZ40ocucCFbRwTUIs/edit?usp=sharing
 
 **Student Name:** Jerold M. Amora
 
